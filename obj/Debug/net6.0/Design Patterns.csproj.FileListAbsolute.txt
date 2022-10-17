@@ -1,0 +1,26 @@
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\bin\Debug\net6.0\appsettings.json
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\bin\Debug\net6.0\Design Patterns.staticwebassets.runtime.json
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\bin\Debug\net6.0\Design Patterns.exe
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\bin\Debug\net6.0\Design Patterns.deps.json
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\bin\Debug\net6.0\Design Patterns.runtimeconfig.json
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\bin\Debug\net6.0\Design Patterns.dll
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\bin\Debug\net6.0\Design Patterns.pdb
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.csproj.AssemblyReference.cache
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.AssemblyInfoInputs.cache
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.AssemblyInfo.cs
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.RazorAssemblyInfo.cache
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.RazorAssemblyInfo.cs
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\scopedcss\bundle\Design Patterns.styles.css
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\scopedcss\projectbundle\Design Patterns.bundle.scp.css
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.dll
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\refint\Design Patterns.dll
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.pdb
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\Design Patterns.genruntimeconfig.cache
+C:\Users\MehmetLalek\VsCode projects\Design Patterns\obj\Debug\net6.0\ref\Design Patterns.dll
